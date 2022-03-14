@@ -1,4 +1,5 @@
 # Social Distance Detection
+Social distancing detection using deep learning to evaluate the distance between people to mitigate the impact of this coronavirus pandemic. The detection tool was developed to alert people to maintain a safe distance with each other by evaluating a video feed. The video frame from the camera was used as input, and the open-source object detection pre-trained model.
 
 ## Project Output
 #### Sample Output 1
