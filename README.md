@@ -20,6 +20,13 @@ Social distancing detection using deep learning to evaluate the distance between
 * After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory
 
 ## Contacts:
-* **Created by:[Chandan Kumar](https://github.com/Chandan220698)**
-* **Email:[ck220698@gmail.com](ck220698@gmail.com)**
+* **Created by: [Chandan Kumar](https://github.com/Chandan220698)**
+* **Email: [ck220698@gmail.com](ck220698@gmail.com)**
 * **LinkedIn: [Chandan Kumar](https://www.linkedin.com/in/chandan-kumar-ck111/)**
+
+
+## Badges
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
