@@ -30,6 +30,6 @@ Social distancing detection using deep learning to evaluate the distance between
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=https://github.com/Chandan220698/Social-Distance-Detector">
+    <img src="https://komarev.com/ghpvc/?username=Chandan220698/Social-Distance-Detector">
 </a>
 
